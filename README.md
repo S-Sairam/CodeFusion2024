@@ -68,6 +68,7 @@ These results demonstrate the model's effectiveness in detecting UDP-based DDoS 
 
 ## Acknowledgments
 Thanks to the Codefusion Hackathon organizers and the University of New Brunswick for providing the CIC 2019 DDoS Dataset.
+
 Thank you to my teammates for contributing and making this model work :
                                                                          [Krishna Sujit](https://www.github.com/haxthehacc),
                                                                          [Manit Bohra](https://www.github.com/Alex-Hunterz), 
