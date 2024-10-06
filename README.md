@@ -72,4 +72,4 @@ Thanks to the Codefusion Hackathon organizers and the University of New Brunswic
 Thank you to my teammates for contributing and making this model work :
                                                                          [Krishna Sujit](https://www.github.com/haxthehacc),
                                                                          [Manit Bohra](https://www.github.com/Alex-Hunterz), 
-                                                                          Atharv   
+                                                                          [Atharv](https://www.github.com/atharvrawal)   
