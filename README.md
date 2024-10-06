@@ -20,8 +20,7 @@ The BotnetDetector focuses on detecting Distributed Denial-of-Service (DDoS) att
 - **A good base architecture to expand to other types of attacks
 
 ## Dataset
-This project utilizes the [CIC 2019 DDoS Dataset](https://www.unb.ca/cic/datasets/ddos-2019.html), which includes extensive samples of DDoS attack traffic which I downloaded from Kaggle : https://www.kaggle.com/datasets/rodrigorosasilva/cic-ddos2019-30gb-full-dataset-csv-files
-
+This project utilizes the [CIC 2019 DDoS Dataset](https://www.unb.ca/cic/datasets/ddos-2019.html), which includes extensive samples of DDoS attack traffic .
 
 ## Model Architecture
 The BotnetDetector uses a type of artificial intelligence model called a **Long Short-Term Memory (LSTM)** network. This type of model is particularly effective for processing sequences of data, such as network traffic, because it can remember information over time and use it to make predictions. Below is a breakdown of the layers and their purpose, explained for both technical and non-technical readers:
