@@ -17,7 +17,7 @@ The BotnetDetector focuses on detecting Distributed Denial-of-Service (DDoS) att
 ## Features
 - **Focus on UDP Traffic**: Specialized in detecting UDP-based DDoS attacks.
 - **LSTM Model for Temporal Analysis**: Employs LSTM to capture patterns over time, improving detection accuracy for botnet activities.
-- **A good base architecture to expand to other types of attacks
+- **Easy to Expand**: A good base architecture to expand to other types of attacks
 
 ## Dataset
 This project utilizes the [CIC 2019 DDoS Dataset](https://www.unb.ca/cic/datasets/ddos-2019.html), which includes extensive samples of DDoS attack traffic .
